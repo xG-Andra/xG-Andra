@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **backend**
 
-- 👨‍💻 All of my projects are available at [my own repos](my own repos)
-
 - ⚡ Fun fact **i can get addicted to reading books or playing games**
 
 <h3 align="left">Connect with me:</h3>
