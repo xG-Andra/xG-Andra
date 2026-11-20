@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andra</h1>
 <h3 align="center">A passionate software engineer from Sleman Regency, Special Region of Yogyakarta, Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xg-andra" alt="xg-andra" /></a> </p>
 
 - 🔭 I’m currently studying on [SMK Negeri 2 Yogyakarta](https://www.smk2-yk.sch.id/)
 
