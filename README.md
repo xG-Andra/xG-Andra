@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andra</h1>
 <h3 align="center">A passionate software engineer from Sleman Regency, Special Region of Yogyakarta, Indonesia</h3>
 
-- 🔭 I’m currently studying on [SMK Negeri 2 Yogyakarta.](https://www.smk2-yk.sch.id/)
+- Young stud at [SMK Negeri 2 Yogyakarta.](https://www.smk2-yk.sch.id/)
 
-- 🌱 I’m currently learning **ai agents, prompting properly, computer science, cyber security, and finance.**
+- I’m currently learning **ai agents, prompting properly, computer science, cyber security, and finance.**
 
-- 👯 I’m looking to collaborate on **-.**
-
-- 🤝 I’m looking for help with **Backend.**
-
-- ⚡ Fun fact **I can get addicted to reading books or playing games.**
+- Fun fact **I can get addicted to reading books or playing games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
